@@ -5,7 +5,7 @@ Idea here is to identify
 3. Now check if the target item is greater than left item and less than mid item. then adjust right to mid - 1 
 4. same for right hand side
 overall it is divide list into two lists and apply binary search on both sides separately
-
+# 33 Search in Rotated Sorted Array (Leetcode)
 '''
 
 
